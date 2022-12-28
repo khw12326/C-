@@ -1,0 +1,10 @@
+C:\Users\김현우\source\repos\UsingControls\UsingControls\bin\Debug\UsingControls.exe.config
+C:\Users\김현우\source\repos\UsingControls\UsingControls\bin\Debug\UsingControls.exe
+C:\Users\김현우\source\repos\UsingControls\UsingControls\bin\Debug\UsingControls.pdb
+C:\Users\김현우\source\repos\UsingControls\UsingControls\obj\Debug\UsingControls.csprojAssemblyReference.cache
+C:\Users\김현우\source\repos\UsingControls\UsingControls\obj\Debug\UsingControls.Properties.Resources.resources
+C:\Users\김현우\source\repos\UsingControls\UsingControls\obj\Debug\UsingControls.csproj.GenerateResource.cache
+C:\Users\김현우\source\repos\UsingControls\UsingControls\obj\Debug\UsingControls.csproj.CoreCompileInputs.cache
+C:\Users\김현우\source\repos\UsingControls\UsingControls\obj\Debug\UsingControls.exe
+C:\Users\김현우\source\repos\UsingControls\UsingControls\obj\Debug\UsingControls.pdb
+C:\Users\김현우\source\repos\UsingControls\UsingControls\obj\Debug\UsingControls.MainForm2.resources
